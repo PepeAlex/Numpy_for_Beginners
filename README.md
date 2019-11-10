@@ -33,5 +33,4 @@
     
    ### 6 - Reference
     
-![Alt text]
-
+![Alt text](https://github.com/PepeAlex/numpy.random/blob/master/Numpy.jpeg)
