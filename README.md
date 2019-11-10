@@ -1,3 +1,5 @@
+![Alt text](https://github.com/PepeAlex/numpy.random/blob/master/Numpy.jpeg)
+
 # NumPy.Random
 
 ## Project 2019
@@ -7,10 +9,9 @@
 
 ## Author: Alexander Pepe
 
-  This project is research about NumPy-random, your subset and your function. I briefly describe Numpy, how to install and what you need to use it.
+  This project is research about NumPy-random, your subsets and your functions. I briefly describe Numpy, how to install and what you need to use it. After that I also describe Numpy.random and its function. The propouse of this project is also delivery it in the Jupyter Notebook, so you will find the file named Prog_data.ipynb to see every topics in detail. 
   
-  
-## Sumari
+## Summary
     
    ### 1 - Introduction
    - What is Numpy
@@ -32,5 +33,3 @@
    ### 5 - Conclusion
     
    ### 6 - Reference
-    
-![Alt text](https://github.com/PepeAlex/numpy.random/blob/master/Numpy.jpeg)
