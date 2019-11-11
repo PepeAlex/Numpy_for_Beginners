@@ -10,10 +10,8 @@
 ## Author: Alexander Pepe
 
   This project is research about NumPy-random, your subsets and your functions as part of the Programming for Data Analysis at Galway-Mayo Institute of Technology has Brian McGinley as lector.
-  I briefly describe Numpy, how to install and what you need to use it. After that I also describe Numpy.random and its function. The propouse of this project is also delivery it in the Jupyter Notebook, so you will find the file named Prog_data.ipynb to see every topics in detail.
+  I briefly describe Numpy, how to install and what you need to use it. After that I also describe Numpy.random and its function. The propouse of this project is also delivery it in the Jupyter Notebook, so you will find the file named Prog_data.ipynb (https://github.com/PepeAlex/numpy.random/blob/master/Prog_data.ipynb) to see every topics in detail.
   In Numpy.random Distribution I describe all function and emphasize 5 such as binomial, gamma, lognormal, normal and uniform.
-  
-  ![Alt text](https://github.com/PepeAlex/numpy.random/blob/master/Prog_data.ipynb)
   
   ## Summary
     
